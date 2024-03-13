@@ -1,1 +1,1 @@
-// Basit bir chat uygulama çalışması
+Basit bir chat uygulama çalışması
